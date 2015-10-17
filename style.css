@@ -1,11 +1,180 @@
-h1{
-  color: red
+#list1 li
+{
+  margin: 65px 155px;
+  border: 3px double black;
+  display: inline;
+  padding: 10px;
+
+}
+
+#list1
+{
+  padding: 30px;
+  border-bottom: 6px double black;
+
+}
+
+
+#BeanTruck
+{
+  background-color: black;
+  color: salmon;
+  display: block;
+  width: auto;
+  padding: 20px;
+  padding-bottom: 2px;
+  margin-top: 0px;;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: left;
+}
+
+#GoodFood
+{
+
+text-align: center;
+margin-top: 40px;
+margin-bottom: 60px;
+}
+
+#legumes
+{text-align: center;
+  margin-bottom: 45px;
+}
+
+
+em {
+  color: salmon;
 }
 
 strong {
   font-weight: bold;
 }
 
-h2{
-  color: blue
+#MenuTitle
+{
+  text-align: center;;
+  margin-bottom: 20px;
+}
+
+#AppetizerPics
+{
+  margin-left: 250px;
+  margin-bottom: 20px;
+}
+
+#AppetizerList
+{
+  margin-left: 90px;
+  margin-bottom: 20px;
+}
+
+#SoupPics
+{
+  margin-left: 375px;
+  margin-bottom: 20px;
+}
+
+#SoupList
+{
+  margin-left: 90px;
+  margin-bottom: 20px;
+}
+
+#SandwichPics
+{
+  margin-left: 375px;
+  margin-bottom: 20px;
+}
+
+#SandwichList
+{
+  margin-left: 90px;
+  margin-bottom: 20px;
+}
+
+#BeansAndRicePics
+{
+  margin-left: 375px;
+  margin-bottom: 20px;
+}
+
+#BeansAndRiceList
+{
+  margin-left: 90px;
+  margin-bottom: 40px;
+}
+
+#Appetizers
+{
+  margin-left: 550px;
+  margin-bottom: 20px;
+}
+
+#Soups
+{
+  margin-left: 590px;
+  margin-bottom: 20px;
+}
+
+#Sandwiches
+{
+  margin-left: 565px;
+  margin-bottom: 20px;
+}
+
+#BeansAndRice
+{
+  margin-left: 550px;
+  margin-bottom: 20px;
+}
+
+body
+{
+  font-family: 'Ubuntu', sans-serif;
+  border-bottom: 5px double black;
+}
+
+#OurStoryTitle
+{
+  text-align: center;
+}
+
+#StoryText
+{
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+#StoryPic
+{
+  margin-left: 325px;
+}
+
+#StoryPart2
+{
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 30px;
+}
+
+#Event1
+{
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 40px;
+
+}
+
+#Event2
+{
+  margin-left: 175px;
+  margin-top: 75px;
+}
+
+a
+{
+  color: salmon;
 }
